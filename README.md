@@ -30,3 +30,11 @@ up to date, audited 218 packages in 2s
 
 found 0 vulnerabilities
 (venv) PS C:\D\React\pr1> npm run dev
+
+
+
+
+components in react:
+    functional based component
+      rafc
+    class based component
